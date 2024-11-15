@@ -1,0 +1,8 @@
+/* Apply a background color and font to the entire page */
+body {
+    background-color: #102fb9;
+    font-family: Arial, sans-serif;
+    
+    color: #333;
+}
+
